@@ -1,1 +1,4 @@
-1234321
+Mark[0]:1
+Mark[1]:2
+Mark[2]:3
+Visiting sequence:0->1->2
